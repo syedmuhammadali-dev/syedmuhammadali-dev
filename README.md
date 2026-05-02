@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;React+Native+%7C+Mobile+Apps+%F0%9F%93%B1;Node.js+%7C+Express+%7C+MongoDB+%F0%9F%94%A5;Building+Products+People+Love+%E2%9C%A8;Open+to+Freelance+%26+Remote+Work+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+Native+%7C+Mobile+Apps+%F0%9F%93%B1;Node.js+%7C+Express+%7C+MongoDB+%F0%9F%94%A5;Building+Products+People+Love+%E2%9C%A8;Open+to+Freelance+%26+Remote+Work+%F0%9F%8C%8D" alt="Typing SVG" />
 
 </div>
 
