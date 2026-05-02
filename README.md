@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ali--portfolio--nine.vercel.app-6d28d9?style=for-the-badge&logoColor=white)](https://ali-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ali-portfolio-nine.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeadnuhammedalimazhar@gmail.com)
 
 <br/>
 
@@ -91,16 +91,16 @@ const syed_muhammad_ali = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=syedmuhammadali-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadali-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadali-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmuhammadali-dev&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -110,7 +110,7 @@ const syed_muhammad_ali = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadali-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 </div>
 
@@ -149,7 +149,7 @@ const syed_muhammad_ali = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=syedmuhammadali-dev&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -163,7 +163,7 @@ const syed_muhammad_ali = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-6d28d9?style=for-the-badge)](https://ali-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ali-portfolio-nine.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeadmuhammadalimazhar@gmail.com)
 
 <br/>
 
