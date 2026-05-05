@@ -118,18 +118,6 @@ const syed_muhammad_ali = {
 
 ---
 
-## 🌟 Featured Projects
-
-> 💡 **Check my pinned repos below** — or visit **[my portfolio](https://ali-portfolio-nine.vercel.app/)** for live demos!
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🛒 **E-Commerce App** | Full-stack shopping platform with auth, cart & payments | MERN Stack | [View →](https://ali-portfolio-nine.vercel.app/) |
-| 📱 **Mobile App** | Cross-platform React Native application | RN + Firebase | [View →](https://ali-portfolio-nine.vercel.app/) |
-| 🔐 **Auth System** | JWT-based secure authentication system | Node + MongoDB | [View →](https://ali-portfolio-nine.vercel.app/) |
-
----
-
 ## 💼 Why Hire Me?
 
 <div align="center">
