@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ali--portfolio--nine.vercel.app-6d28d9?style=for-the-badge&logoColor=white)](https://ali-portfolio-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ali-portfolio-nine.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammed-ali/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeadnuhammedalimazhar@gmail.com)
 
 <br/>
@@ -36,7 +36,7 @@ const syed_muhammad_ali = {
   },
 
   currentFocus:  "Building scalable full-stack web & mobile apps",
-  funFact:       "I turn ☕ coffee into clean, maintainable code",
+  funFact:       "Built my developer journey through consistent hands-on practice and real-world projects",
 };
 ```
 
@@ -75,7 +75,7 @@ const syed_muhammad_ali = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgress](https://img.shields.io/badge/Postgress-007ACC?style=for-the-badge&logo=Postgress&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Platforms
@@ -137,10 +137,9 @@ const syed_muhammad_ali = {
 ```
 ✅ End-to-End Development   — I build complete products, not just pieces
 ✅ Clean Code               — Readable, maintainable, well-documented
-✅ On-Time Delivery         — Deadlines are sacred, I don't miss them
+✅ On-Time Delivery         — Reliable Delivery — Focused on meeting project timelines
 ✅ Mobile + Web             — One developer, full coverage
 ✅ Remote-Ready             — Experienced working across time zones
-✅ Open Source Contributor  — I give back to the community
 ```
 
 </div>
@@ -165,7 +164,7 @@ const syed_muhammad_ali = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-6d28d9?style=for-the-badge)](https://ali-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ali-portfolio-nine.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeadmuhammadalimazhar@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeadmuhammedalimazhar@gmail.com)
 
 <br/>
 
