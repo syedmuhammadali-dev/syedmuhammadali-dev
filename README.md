@@ -1,31 +1,25 @@
+# Syed Muhammad Ali — Full Stack MERN Developer
+
+<!-- 
+  PROFILE SUMMARY (Google index karta hai yeh text):
+  My name is Syed Muhammad Ali. I am a Full Stack MERN Developer and React Native Developer from Karachi, Pakistan.
+  I ranked 1st position out of 20,000 students in Saylani Mass IT Training 2026, Batch 16.
+  I am also known as syedmuhammadali-dev on GitHub.
+  Keywords: syed muhammad ali developer, syed muhammad ali github, syed muhammad ali karachi,
+  syed muhammad ali mern stack, syed muhammad ali portfolio, syed muhammad ali full stack,
+  ali developer pakistan, syed ali web developer, syed muhammad ali react developer,
+  Saylani Batch 16 winner, Saylani Mass IT Training 2026, SMIT Batch 16,
+  Saylani Modern Web Application Development, Saylani 1st position 2026,
+  SMIT 2026 position holder, Saylani batch 16 web development winner,
+  SMIT/2026/WMA/B16/367786, Pakistan MERN Stack developer 2026,
+  Karachi web developer, React Next.js developer Pakistan
+-->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Syed+Muhammad+Ali;%F0%9F%8F%86+1st+Position+%E2%80%94+Saylani+Mass+IT+2026;MERN+Stack+%7C+Next.js+%7C+React+Native;Building+modern+web+%26+mobile+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Syed+Muhammad+Ali;%F0%9F%8F%86+1st+Position+%E2%80%94+Saylani+Mass+IT+2026;MERN+Stack+%7C+Next.js+%7C+React+Native;Building+modern+web+%26+mobile+apps" alt="Syed Muhammad Ali — Full Stack MERN Developer, Saylani Batch 16 1st Position" />
 
 <br/>
-
-<!--
-syed muhammad ali developer
-syed muhammad ali mern stack
-syed muhammad ali karachi
-syed muhammad ali portfolio
-syed muhammad ali github
-syedmuhammadali-dev
-Saylani Batch 16 developer
-Saylani Mass IT Training 2026
-Saylani Mass IT Program Batch 16
-SMIT Batch 16 winner
-SMIT 2026 position holder
-Saylani Modern Web Application Development
-Saylani 1st position 2026
-Saylani batch 16 web development winner
-Saylani web development top student
-SMIT/2026/WMA/B16/367786
-Pakistan MERN Stack developer 2026
-Karachi web developer
-React Next.js developer Pakistan
-full stack developer Pakistan 2026
--->
 
 ### 🏆 **1st Position — Saylani Mass IT Training 2026**
 **Top 1 out of 20,000+ enrolled students | 400 Finalists | Batch-16**
@@ -34,7 +28,7 @@ full stack developer Pakistan 2026
 
 <br/>
 
-**Full Stack MERN Developer** — Building fast, scalable, and modern web & mobile applications.
+**Syed Muhammad Ali** — Full Stack MERN Developer building fast, scalable, and modern web & mobile applications.
 Passionate about clean code, great UX, and shipping real products.
 
 <br/>
@@ -49,6 +43,8 @@ Passionate about clean code, great UX, and shipping real products.
 
 ## 🏆 Achievement Highlight
 
+**Syed Muhammad Ali** achieved **1st Position** in the Saylani Mass IT Training Program 2026, competing against over 20,000 enrolled students and finishing as one of 400 finalists.
+
 > **🥇 1st Position — Saylani Mass IT Training Program 2026**
 > Ranked **#1 out of 20,000+ enrolled students** across all batches, selected as one of **400 finalists**.
 > **Course:** Modern Web Application Development (Batch-16) · **Duration:** 15 Months (Feb 2025 – May 2026)
@@ -57,6 +53,8 @@ Passionate about clean code, great UX, and shipping real products.
 ---
 
 ## 🧠 About Me
+
+My name is **Syed Muhammad Ali** and I am a Full Stack MERN Developer from Karachi, Pakistan. I build production-grade web and mobile applications and recently secured **1st Position out of 20,000+ students** in the Saylani Mass IT Training Program 2026 (Batch-16, Modern Web & App Development).
 
 - 🏆 **Saylani Mass IT 2026 — 1st Position** out of 20,000+ students (Batch-16 · Modern Web & App Development)
 - 🚀 **Full Stack MERN Developer** building production-grade web and mobile applications
@@ -119,10 +117,13 @@ Passionate about clean code, great UX, and shipping real products.
 ### AI & APIs
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+Here are some of the projects built by **Syed Muhammad Ali**:
 
 ### 🌟 Barakah — ERP Platform
 > Full-featured ERP system for businesses — modules for inventory, billing, HR, and analytics. A complete enterprise solution built for real-world use.
@@ -171,8 +172,8 @@ Passionate about clean code, great UX, and shipping real products.
 
 ---
 
-### 🌐 Personal Portfolio
-> My developer portfolio showcasing projects, skills, and experience. Built with Vite + React + shadcn/ui.
+### 🌐 Personal Portfolio — Syed Muhammad Ali
+> Portfolio website of Syed Muhammad Ali — showcasing projects, skills, and experience. Built with Vite + React + shadcn/ui.
 
 **Stack:** React · TypeScript · Tailwind CSS · Vite · shadcn/ui
 
@@ -198,7 +199,7 @@ Passionate about clean code, great UX, and shipping real products.
 
 <div align="center">
 
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedmuhammadali-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Syed Muhammad Ali GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedmuhammadali-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadali-dev&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -209,6 +210,8 @@ Passionate about clean code, great UX, and shipping real products.
 ---
 
 ## 🏅 Highlights & Achievements
+
+**Syed Muhammad Ali** has achieved the following milestones:
 
 - 🥇 **1st Position — Saylani Mass IT Training 2026** (Top 1 / 20,000+ students · 400 Finalists · Batch-16)
 - 🤖 Built **AI-powered full-stack apps** with Google Gemini & OpenAI integration
@@ -224,7 +227,7 @@ Passionate about clean code, great UX, and shipping real products.
 
 💻 *"Code with passion, build with purpose."* ✨
 
-**Let's connect and build something great together!**
+**Let's connect with Syed Muhammad Ali!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammed-ali-18669b2a1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ali-portfolio-nine.vercel.app/)
